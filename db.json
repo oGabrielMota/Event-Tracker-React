@@ -1,0 +1,46 @@
+{
+    "eventos": [{
+      "descricao": "Estudar React",
+      "inicio": "2022-01-15T09:00",
+      "fim": "2022-01-15T13:00",
+      "completo": false,
+      "id": 101
+    },
+    {
+      "descricao": "Estudar Recoil",
+      "inicio": "2022-01-16T09:00",
+      "fim": "2022-01-16T11:00",
+      "completo": false,
+      "id": 102
+    },
+    {
+        "descricao": "Estudar HTML",
+        "inicio": "2022-09-14T09:00",
+        "fim": "2022-09-14T13:00",
+        "completo": false,
+        "id": 103
+      },
+      {
+        "descricao": "Estudar CSS",
+        "inicio": "2022-09-15T09:00",
+        "fim": "2022-09-15T13:00",
+        "completo": false,
+        "id": 104
+      },
+      {
+        "descricao": "Estudar JS",
+        "inicio": "2022-09-16T09:00",
+        "fim": "2022-09-16T13:00",
+        "completo": false,
+        "id": 105
+      },
+      {
+        "descricao": "Estudar DOCKER",
+        "inicio": "2022-09-17T09:00",
+        "fim": "2022-09-17T13:00",
+        "completo": false,
+        "id": 106
+      }
+
+    ]
+}
